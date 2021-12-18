@@ -1,5 +1,9 @@
 
 <div style="display: inline_block"><br>
+ <h1>Ivam Carvalho Novais</h1>
+  <img align="right" alt="Darlene-pic" height="150" style="border-radius:100px;" src="./icon.png">
+</div>
+<div style="display: inline_block"><br>
   <img align="center" alt="Ivam-React" height="30" width="40" src="./java_original_logo_icon_146458.svg">
   <img align="center" alt="Ivam-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ivam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
