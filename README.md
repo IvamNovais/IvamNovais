@@ -18,7 +18,7 @@
   <a href = "mailto:Ivamnovaisivam@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivam-novais-7597a221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ### Olá eu sou a Ivam, e aqui está algumas informações do meu perfil!
+  ### Olá eu sou Ivam, e aqui está algumas informações do meu perfil!
 <div align="center">
   <a href="https://github.com/IvamNovais">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IvamNovais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
