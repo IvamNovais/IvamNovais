@@ -1,7 +1,7 @@
 
 <div style="display: inline_block"><br>
  <h1>Ivam Carvalho Novais</h1>
-  <img align="right" alt="Darlene-pic" height="150" style="border-radius:100px;" src="./icon.png">
+  <img align="right" alt="Ivam-pic" height="150" style="border-radius:100px;" src="./icon.png">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ivam-java" height="30" width="40" src="./java_original_logo_icon_146458.svg">
