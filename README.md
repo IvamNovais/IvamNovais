@@ -4,7 +4,8 @@
   <img align="right" alt="Darlene-pic" height="150" style="border-radius:100px;" src="./icon.png">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ivam-React" height="30" width="40" src="./java_original_logo_icon_146458.svg">
+  <img align="center" alt="Ivam-java" height="30" width="40" src="./java_original_logo_icon_146458.svg">
+  <img align="center" alt="Ivam-spring" height="30" width="30" src="./download-removebg-preview.png">
   <img align="center" alt="Ivam-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ivam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ivam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
